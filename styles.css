@@ -1,0 +1,27 @@
+.contenedorDelNavbar{
+    background-color: yellowgreen;
+    margin-right: 2%;
+    
+}
+.subtitulo{
+    padding: 10px;
+    padding-left: 40%;
+}
+.c-item{
+    height: 500px;    
+}
+.img-item{
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+.articulo{
+    margin: 5%;
+}
+.tituloArticulo{
+    padding: 2%;
+    text-align: center;
+}
+.presentacion{
+    text-align: center;
+}
